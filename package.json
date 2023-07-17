@@ -1,8 +1,11 @@
 {
-  "name": "my-module",
-  "version": "1.0.0",
-  "description": "My new Nuxt module",
-  "repository": "your-org/my-module",
+  "name": "cookie-universal-nuxtjs",
+  "version": "1.0.2",
+  "description": "Universal cookie module for Nuxt, perfect for SSR",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letuananh1873/cookie-universal-nuxtjs.git"
+  },
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -41,5 +44,20 @@
     "eslint": "^8.45.0",
     "nuxt": "^3.6.3",
     "vitest": "^0.33.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/letuananh1873/cookie-universal-nuxtjs/issues"
+  },
+  "homepage": "https://github.com/letuananh1873/cookie-universal-nuxtjs#readme",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "cookie",
+    "nuxt",
+    "cookie",
+    "universal",
+    "cookie-universal-nuxt"
+  ],
+  "author": "David Lee"
 }

@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
   modules: ['../src/module'],
-  myModule: {},
+  cookieUniversalNuxtjs: {},
   devtools: { enabled: true }
 })
